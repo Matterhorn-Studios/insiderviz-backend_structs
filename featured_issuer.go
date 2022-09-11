@@ -1,4 +1,4 @@
-package iv_structs
+package main
 
 type DB_FeaturedIssuer struct {
 	Index            int     `bson:"index"`

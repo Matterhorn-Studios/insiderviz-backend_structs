@@ -1,4 +1,4 @@
-package iv_structs
+package main
 
 type DB_DeltaForm struct {
 	AccessionNumber       string        `json:"accessionNumber" bson:"accessionNumber"`
