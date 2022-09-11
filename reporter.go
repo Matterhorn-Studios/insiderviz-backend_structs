@@ -1,4 +1,4 @@
-package main
+package iv_structs
 
 type DB_Reporter_Doc struct {
 	Name          string  `json:"name" bson:"name"`

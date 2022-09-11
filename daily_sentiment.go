@@ -1,4 +1,4 @@
-package main
+package iv_structs
 
 type DB_SentimentDay struct {
 	Buy  float32 `bson:"buy"`

@@ -1,4 +1,4 @@
-package main
+package iv_structs
 
 type DB_Form13F_Base struct {
 	Cik             string               `json:"cik" bson:"cik"`
